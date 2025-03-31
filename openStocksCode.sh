@@ -1,0 +1,1 @@
+code --folder-uri=vscode-remote://ssh-remote+hesham@interserver.yuva.dev/home/hesham/workspace/python
